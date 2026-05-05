@@ -12,8 +12,7 @@ This repository highlights projects focused on:
 - Pipeline automation and CI/CD integration
 
 🔗 **About Me**
-Explore my full background, work history, and certifications:
-👉 https://liev2525.github.io/Elizondo_Portofolio_Page/
+#### [👉 Explore my full background, work history, and certifications](https://liev2525.github.io/Elizondo_Portofolio_Page/)
 
 💼 Background:
 - Data Engineer II working across DEV/SIT/PAT environments
