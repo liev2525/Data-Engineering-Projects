@@ -33,7 +33,7 @@ Databricks | Snowflake | DBT | PySpark | Spark SQL | Delta Lake | Azure | Docker
 ---
 
 ## PROJECT 1: [Retail Sales and Inventory Analysis](https://github.com/liev2525/Data-Analysis-Projects/tree/5ee6251ac348d9eb432106c08555827aa51cad5e/Supply%20Chain%20%26%20Sales%20Analytics%20Case%20Study)
-- Brief overview: Conducted an end-to-end analysis of historical performance and future sales potential for shipping containers produced using various materials
+- Brief overview: Retail Sales and Inventory Analysis is an end-to-end data engineering and analytics project built using Microsoft Fabric, Power BI, Docker, Ubuntu, and GitLab CI/CD. The solution leverages Medallion Architecture (Bronze, Silver, Gold) to ingest, cleanse, transform, and model retail sales and inventory datasets into business-ready analytics tables. Interactive Power BI dashboards provide insights into revenue trends, product performance, inventory health, profit margins, regional sales performance, and low stock monitoring to support data-driven business decisions.
 - Technology used: ✅ Data Engineering ✅ Lakehouse Architecture ✅ PySpark ✅ Power BI ✅ Semantic Modeling ✅ Docker ✅ Ubuntu/Linux ✅ GitLab CI/CD ✅ DataOps Concepts
 
 ### Architecture
