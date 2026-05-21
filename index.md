@@ -47,4 +47,4 @@ Databricks | Snowflake | DBT | PySpark | Spark SQL | Delta Lake | Azure | Docker
 <img width="599" height="399" alt="image" src="https://github.com/user-attachments/assets/827b618f-f492-4434-83d7-a40d504cd0c2" />
 <img width="599" height="399" alt="image" src="https://github.com/user-attachments/assets/b038d490-2413-42b7-8121-4d23c88ce6e5" />
 
-### 📄 View Full PDF Documentation: [Retail Sales and Inventory Analysis.pdf](https://github.com/liev2525/Data-Analysis-Projects/blob/main/Supply%20Chain%20%26%20Sales%20Analytics%20Case%20Study/docs/Supply%20Chain%20%26%20Sales%20Analytics%20Case%20Study.pdf)
+### 📄 View Full PDF Documentation: [Retail Sales and Inventory Analysis.pdf](https://github.com/liev2525/Data-Engineering-Projects/blob/main/Snowflake_Projects/Retail_Sales_%26_Inventory_Analysis/data/Retail%20Sales%20%26%20Inventory%20Analysis%20End%20to%20End.pdf)
