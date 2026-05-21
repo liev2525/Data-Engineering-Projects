@@ -39,7 +39,7 @@ Databricks | Snowflake | DBT | PySpark | Spark SQL | Delta Lake | Azure | Docker
 ### Architecture
 <img width="699" height="399" alt="RetailAnalyticsEndtoEndArchitecture" src="https://github.com/user-attachments/assets/8bae94bf-11f6-4358-a676-0a2b0c0f8b82" />
 
-## Semantics Model
+### Microsoft Fabric Semantics Model
 <img width="699" height="399" alt="image" src="https://github.com/user-attachments/assets/f934d412-8667-4c01-965a-b96fc0d7cc3b" />
 
 ### Dashboard Preview
